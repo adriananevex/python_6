@@ -27,5 +27,5 @@ print(
 
 print(
     "alchemy.transmutation.philosophers_stone():",
-    alchemy.transmutation.philosofers_stone(),
+    alchemy.transmutation.philosophers_stone(),
 )

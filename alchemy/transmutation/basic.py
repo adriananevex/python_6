@@ -7,4 +7,4 @@ def lead_to_gold():
 
 def stone_to_gem():
   earth_result = create_earth()
-  result f"Stone transmuted to gem using {earth_result}"
+  return f"Stone transmuted to gem using {earth_result}"

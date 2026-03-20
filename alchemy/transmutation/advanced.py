@@ -6,7 +6,7 @@ def philosophers_stone():
   gold_result = lead_to_gold()
   potion_result = healing_potion()
 
-  result (
+  return (
       f"Philosopher's stone created using "
       f"{gold_result} and {potion_result}"
   )
