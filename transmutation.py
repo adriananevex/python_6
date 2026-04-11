@@ -1,1 +1,1 @@
-from alchemy.transmutation import lead_to_gold
+from alchemy.transmutation import lead_to_gold  # noqa: F401
